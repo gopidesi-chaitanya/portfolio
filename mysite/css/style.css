@@ -1,0 +1,108 @@
+body{
+    margin:0;
+    padding: 0;
+    
+    
+  }
+  .top-container{
+    background-color: aquamarine;
+    height:610px;
+    width: 100%;
+    position: relative;
+     bottom: 40px;
+     text-align: center;
+  }
+  .name{
+    padding-top: 130px;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    color:rgb(255, 123, 0) ;
+    margin-bottom: 0;
+  }
+  #student{
+    color:rgb(219, 127, 22);
+    font-family: monospace;
+    font-size: 30px;
+    width:30%;
+    margin: 0 auto ;
+  }
+  .cloud1{
+    position: absolute;
+    top:50px;
+    right:350px
+    
+  }
+  .cloud2{
+    position:absolute;
+  }
+  .myimg{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 150px;
+    
+    
+    
+  }
+  .middle-container{
+    margin-top: 0;
+  }
+
+  .dis{
+    width:55%;
+    float: right;
+    font-size: 25px;
+    margin-top: 160px;
+  }
+  .matt{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .bottom-container{
+    text-align: center;
+  }
+
+  .links{
+    background-color: aquamarine;
+    height: 150px;
+    margin-top: 50px;
+    position: relative;
+    
+
+  }
+  .links a,p{
+    color: red;
+    padding-left: 10px;
+    margin-left: 50px;
+  
+  }
+  .nav{
+    position: absolute;
+    top:50px;
+    left: 500px;
+    
+  }
+  .nav p{
+
+    padding-left: 90px;
+    margin-top: 40px;
+  }
+  
+  .btn{
+    text-decoration: none;
+    display:inline-block;
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+    line-height: 50px;
+    border-radius: 10px;
+  }
+  .btn:hover{
+    background-color: orange;
+  }
+  .footer-link{
+    text-decoration: none;
+  }
+  .footer-link:hover{
+    color:blue
+  }
